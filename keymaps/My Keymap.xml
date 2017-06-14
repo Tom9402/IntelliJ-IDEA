@@ -1,0 +1,5 @@
+<keymap version="1" name="My Keymap" parent="$default">
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+</keymap>
