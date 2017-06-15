@@ -7,4 +7,24 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="if" value="if($END$){}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for(var i=0;i&lt;$END$.length;i++){&#10;    &#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
