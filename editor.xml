@@ -2,6 +2,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
+  <component name="LiveEditOptions" updatePolicy="AUTO" />
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
