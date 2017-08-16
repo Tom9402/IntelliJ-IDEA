@@ -17,7 +17,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="for" value="for(var i=0;i&lt;$END$.length;i++){&#10;    &#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="for(let i=0;i&lt;$END$.length;i++){&#10;    &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CoffeeScript" value="true" />
       <option name="HTML" value="true" />
