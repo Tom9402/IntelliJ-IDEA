@@ -2,6 +2,30 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CFML" value="true" />
+        <entry key="CSS" value="true" />
+        <entry key="FTL" value="true" />
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="Haml" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JSP" value="true" />
+        <entry key="JSPX" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="Stylus" value="true" />
+        <entry key="TypeScript" value="true" />
+        <entry key="VTL" value="true" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
