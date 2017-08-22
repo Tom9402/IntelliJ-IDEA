@@ -9,7 +9,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="if" value="if($END$){}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="if($1$){&#10;    $2$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CoffeeScript" value="true" />
       <option name="HTML" value="true" />
