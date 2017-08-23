@@ -33,7 +33,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="4" value="$('$1$');$2$" toReformat="false" toShortenFQNames="true">
+  <template name="4" value="$('$1$')$2$" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
