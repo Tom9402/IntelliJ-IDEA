@@ -31,6 +31,9 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
