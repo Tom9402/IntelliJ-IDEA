@@ -27,6 +27,9 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt i" />
