@@ -57,4 +57,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="jsrc" value="&lt;script src=&quot;$END$&quot;&gt;&lt;/script&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
